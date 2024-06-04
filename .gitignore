@@ -1,0 +1,12 @@
+
+*.vsidx
+*.v2
+*.json
+*.targets
+*.props
+*.editorconfig
+*.cache
+*.bin
+/Interface/obj
+/ExcelHandler/obj
+/.vs
